@@ -1,0 +1,22 @@
+{
+"name": "com.schnozzlecat.ai",
+"version": "1.2.3",
+"displayName": "AI",
+"description": "This is an example package",
+"unity": "2022.2",
+"unityRelease": "18f1",
+"documentationUrl": "https://example.com/",
+"changelogUrl": "https://example.com/changelog.html",
+"licensesUrl": "https://example.com/licensing.html",
+"dependencies": {
+  "com.unity.entities": "1.0.11"
+},
+"keywords": [
+  "gamespace"
+],
+"author": {
+  "name": "Linus Biermann",
+  "email": "info@schnozzlecat.com",
+  "url": "https://schnozzlecat.com"
+}
+}
